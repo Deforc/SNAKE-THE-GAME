@@ -1,0 +1,29 @@
+﻿  engine.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: Поведение расширения макроса, создающего "defined", не определено
+C:\Users\79823\source\repos\task4_base\engine.c(38,21): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\79823\source\repos\task4_base\engine.c(61,35): warning C4305: функция: усечение из "double" в "GLfloat"
+C:\Users\79823\source\repos\task4_base\engine.c(67,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\79823\source\repos\task4_base\engine.c(67,28): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\79823\source\repos\task4_base\engine.c(68,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\79823\source\repos\task4_base\engine.c(68,32): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\79823\source\repos\task4_base\engine.c(69,29): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\79823\source\repos\task4_base\engine.c(69,36): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\79823\source\repos\task4_base\engine.c(70,25): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\79823\source\repos\task4_base\engine.c(70,32): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\79823\source\repos\task4_base\engine.c(85,19): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\79823\source\repos\task4_base\engine.c(85,27): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\79823\source\repos\task4_base\engine.c(85,39): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\79823\source\repos\task4_base\engine.c(85,51): warning C4244: функция: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\79823\source\repos\task4_base\engine.c(183,30): warning C4133: функция: несовместимые типы - из "char [50]" в "LPCWSTR"
+C:\Users\79823\source\repos\task4_base\engine.c(183,43): warning C4133: функция: несовместимые типы - из "char [10]" в "LPCWSTR"
+C:\Users\79823\source\repos\task4_base\engine.c(202,36): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "void (__cdecl *)(int)"
+C:\Users\79823\source\repos\task4_base\engine.c(213,28): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "void (__cdecl *)(void)"
+C:\Users\79823\source\repos\task4_base\engine.c(215,27): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "void (__cdecl *)(int)"
+C:\Users\79823\source\repos\task4_base\engine.c(263,36): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "void (__cdecl *)(void)"
+C:\Users\79823\source\repos\task4_base\engine.c(265,35): warning C4028: формальный параметр 1 отличается от объявления
+  main.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: Поведение расширения макроса, создающего "defined", не определено
+  Создание кода...
+C:\Users\79823\source\repos\task4_base\engine.c(269): warning C4716: SystemUpdate: должна возвращать значение
+  task4_base.vcxproj -> C:\Users\79823\source\repos\task4_base\Debug\task4_base.exe
+  Скопировано файлов:         1.

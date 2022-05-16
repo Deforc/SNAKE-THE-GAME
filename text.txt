@@ -1,0 +1,19 @@
+MenuBegin
+WindowBegin
+    Position=(50,10)
+    Color=(0.5,0.5,0.5)
+WindowEnd
+ButtonBegin
+    Position=(10,10)
+    Color=(1.0,1.0,1.0)
+    HighlightColor=(0.0,0.0,0.0)
+    Name=StartGame
+ButtonEnd
+ButtonBegin
+    Position=(10,250)
+    Color=(0.0,0.0,1.0)
+    HighlightColor=(1.0,1.0,1.0)
+    Name=Exit
+ButtonEnd
+
+MenuEnd
